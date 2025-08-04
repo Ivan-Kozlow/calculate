@@ -1,0 +1,17 @@
+User-Agent: Yandex
+Host: https://calculate-blond.vercel.app
+Disallow: /ssr
+
+Sitemap: https://calculate-blond.vercel.app/sitemap.xml
+
+User-Agent: GoogleBot
+Host: https://calculate-blond.vercel.app
+Disallow: /ssr
+
+Sitemap: https://calculate-blond.vercel.app/sitemap.xml
+
+User-Agent: *
+Host: https://calculate-blond.vercel.app
+Disallow: /ssr
+
+Sitemap: https://calculate-blond.vercel.app/sitemap.xml
